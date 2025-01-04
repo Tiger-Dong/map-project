@@ -1,0 +1,244 @@
+keyword,name,location,rating
+ATM,Bank of America ATM,"{'lat': 37.7713599, 'lng': -122.4244864}",1.4
+ATM,Bank of America ATM,"{'lat': 37.781512, 'lng': -122.4208309}",2.8
+ATM,ATM,"{'lat': 37.7808107, 'lng': -122.4212454}",3
+ATM,ATM,"{'lat': 37.7804864, 'lng': -122.408378}",0
+ATM,BMO - ATM,"{'lat': 37.7772414, 'lng': -122.4162653}",1
+ATM,ATM,"{'lat': 37.7733858, 'lng': -122.4085037}",1
+ATM,ATM,"{'lat': 37.7805653, 'lng': -122.4189533}",0
+ATM,BMO - ATM,"{'lat': 37.7666929, 'lng': -122.429677}",1
+ATM,Wells Fargo ATM,"{'lat': 37.7688369, 'lng': -122.4279232}",3
+ATM,Wells Fargo ATM,"{'lat': 37.7775531, 'lng': -122.423293}",2.4
+ATM,PUC SF- Golden 1 Credit Union ATM,"{'lat': 37.7804288, 'lng': -122.4207678}",0
+ATM,"Access ATM, Inc.","{'lat': 37.7721662, 'lng': -122.4223311}",3
+ATM,ATM,"{'lat': 37.7719014, 'lng': -122.4312953}",0
+ATM,ATM,"{'lat': 37.7642883, 'lng': -122.4071776}",3.5
+ATM,ATM,"{'lat': 37.7647621, 'lng': -122.4225851}",1
+ATM,Bank of America ATM,"{'lat': 37.7853118, 'lng': -122.4327566}",2.7
+ATM,ATM,"{'lat': 37.7721194, 'lng': -122.4108459}",0
+ATM,Bank of America ATM,"{'lat': 37.784605, 'lng': -122.4082193}",4
+ATM,ATM,"{'lat': 37.7819282, 'lng': -122.4101367}",0
+ATM,BMO - ATM,"{'lat': 37.7851381, 'lng': -122.406266}",0
+Beauty-Salon,Retreat Skin & Hair Studio,"{'lat': 37.7710245, 'lng': -122.430104}",5
+Beauty-Salon,Mayfair Beauty Salon,"{'lat': 37.7839485, 'lng': -122.416121}",5
+Beauty-Salon,Intava Salon,"{'lat': 37.7772032, 'lng': -122.4235544}",4.9
+Beauty-Salon,Golden beauty salon,"{'lat': 37.7837077, 'lng': -122.4157833}",4.7
+Beauty-Salon,Edo Salon,"{'lat': 37.7717647, 'lng': -122.432254}",4.7
+Beauty-Salon,Yahaira's Hair Designer,"{'lat': 37.7749622, 'lng': -122.4210437}",4.9
+Beauty-Salon,Veer & Wander,"{'lat': 37.7732361, 'lng': -122.4210151}",4.8
+Beauty-Salon,salon baobao,"{'lat': 37.7682915, 'lng': -122.4276663}",4.8
+Beauty-Salon,Hair of the Gods,"{'lat': 37.7760921, 'lng': -122.4232951}",4.9
+Beauty-Salon,ORO Salon,"{'lat': 37.769165, 'lng': -122.429861}",4.8
+Beauty-Salon,Zip Zap Hair Salon,"{'lat': 37.77184980000001, 'lng': -122.4305404}",4.6
+Beauty-Salon,Steel + Lacquer,"{'lat': 37.775823, 'lng': -122.4170231}",4.6
+Beauty-Salon,Q Beauty,"{'lat': 37.7860573, 'lng': -122.4177079}",5
+Beauty-Salon,Samitra Salon,"{'lat': 37.7756786, 'lng': -122.4161325}",5
+Beauty-Salon,Barnets salon,"{'lat': 37.7646219, 'lng': -122.4249614}",4.9
+Beauty-Salon,Opera Plaza Hair Design,"{'lat': 37.7809625, 'lng': -122.4219875}",4.6
+Beauty-Salon,Revamp Salon,"{'lat': 37.7646721, 'lng': -122.4234359}",4.9
+Beauty-Salon,Wendy's Salon,"{'lat': 37.7825118, 'lng': -122.4150976}",5
+Beauty-Salon,Glama-Rama! Salon,"{'lat': 37.7679457, 'lng': -122.4223448}",4.7
+Beauty-Salon,bubble pop electric salon,"{'lat': 37.785985, 'lng': -122.4284311}",4.7
+Clinic,Dore Urgent Care Clinic (Psychiatric),"{'lat': 37.77370579999999, 'lng': -122.4129249}",3.5
+Clinic,EZCare Clinic,"{'lat': 37.7710684, 'lng': -122.4248417}",4.3
+Clinic,Grace Medical Clinic,"{'lat': 37.7848727, 'lng': -122.4306913}",5
+Clinic,Sollis Health - San Francisco,"{'lat': 37.7851005, 'lng': -122.4219532}",0
+Clinic,One Medical: Hayes Valley,"{'lat': 37.773958, 'lng': -122.4221524}",3.9
+Clinic,St. Anthony's Medical Clinic,"{'lat': 37.7821992, 'lng': -122.4132138}",3.3
+Clinic,Tom Waddell Urban Health Center,"{'lat': 37.7819284, 'lng': -122.4143537}",3.4
+Clinic,San Francisco Community Health Center,"{'lat': 37.7838223, 'lng': -122.419095}",4.4
+Clinic,Acu-Care Medical Clinic,"{'lat': 37.7844419, 'lng': -122.4142799}",0
+Clinic,Tia San Francisco,"{'lat': 37.7743205, 'lng': -122.4176422}",4
+Clinic,Women's Community Clinic,"{'lat': 37.769526, 'lng': -122.419725}",4
+Clinic,San Francisco City Clinic,"{'lat': 37.7758906, 'lng': -122.4071627}",4.6
+Clinic,Carbon Health Urgent & Primary Care San Francisco - Civic Center,"{'lat': 37.77717639999999, 'lng': -122.4174749}",3.7
+Clinic,Carbon Health Urgent Care San Francisco - Castro,"{'lat': 37.7699007, 'lng': -122.4263947}",4.1
+Clinic,Central City Older Adults Clinic,"{'lat': 37.7762153, 'lng': -122.4192597}",0
+Clinic,Equity Health (FKA: South of Market Health Center),"{'lat': 37.777544, 'lng': -122.4086164}",4.6
+Clinic,DR. BROWN ALLERGY MEDICAL CLINIC,"{'lat': 37.7680737, 'lng': -122.4080569}",3
+Clinic,San Francisco (Van Ness) Outreach Clinic,"{'lat': 37.7859895, 'lng': -122.4209769}",0
+Clinic,San Francisco Community Clinic Consortium,"{'lat': 37.7640103, 'lng': -122.4188532}",4.3
+CVS,CVS,"{'lat': 37.7821074, 'lng': -122.4210559}",3.7
+CVS,CVS,"{'lat': 37.77206, 'lng': -122.4300844}",2.7
+CVS,CVS Pharmacy,"{'lat': 37.782061, 'lng': -122.4210563}",4.6
+CVS,CVS Pharmacy,"{'lat': 37.7720559, 'lng': -122.4301156}",3.1
+CVS,CVS Photo,"{'lat': 37.782061, 'lng': -122.4210563}",2.5
+CVS,CVS Photo,"{'lat': 37.7720632, 'lng': -122.4300586}",3.5
+Fire-Department,San Francisco Fire Department Station 5,"{'lat': 37.7805699, 'lng': -122.4307212}",3.2
+Fire-Department,San Francisco Fire Station 36,"{'lat': 37.7751234, 'lng': -122.4211758}",4.7
+Fire-Department,San Francisco Fire Station 6,"{'lat': 37.7670457, 'lng': -122.4310152}",3.8
+Fire-Department,Commercial Fire Dispatch Headquarters,"{'lat': 37.7748449, 'lng': -122.4231513}",5
+Fire-Department,San Francisco Firefighters Cancer Prevention Foundation,"{'lat': 37.778381, 'lng': -122.4117507}",0
+Gas-Station,ARCO,"{'lat': 37.768473, 'lng': -122.4203864}",3.8
+Gas-Station,Shell,"{'lat': 37.773413, 'lng': -122.408461}",2.8
+Gas-Station,76,"{'lat': 37.7642226, 'lng': -122.407051}",3.8
+Gas-Station,Gas & Shop Gasoline,"{'lat': 37.763792, 'lng': -122.4170812}",3.9
+Gas-Station,Shell,"{'lat': 37.7819157, 'lng': -122.4227248}",2.9
+Gas-Station,Shell,"{'lat': 37.7647648, 'lng': -122.407737}",3.3
+Gas-Station,Shell,"{'lat': 37.7644942, 'lng': -122.4243303}",2.3
+Gas-Station,Chevron,"{'lat': 37.7720624, 'lng': -122.4185775}",2.4
+Gas-Station,Git 'n Split,"{'lat': 37.7638624, 'lng': -122.4169728}",3.7
+Gas-Station,Self Serve Petroleum,"{'lat': 37.7649712, 'lng': -122.4172831}",3.4
+Gas-Station,Mission Self Services,"{'lat': 37.7640215, 'lng': -122.4172109}",2.4
+Gas-Station,ATM (Tower Car Wash),"{'lat': 37.77206169999999, 'lng': -122.4189016}",3.5
+Gas-Station,Chevron,"{'lat': 37.7647966, 'lng': -122.4170427}",3.9
+Government,US General Services Administration,"{'lat': 37.7819451, 'lng': -122.4181348}",3
+Government,California Personnel,"{'lat': 37.7811142, 'lng': -122.4180618}",2
+Government,San Francisco Mayor's Office,"{'lat': 37.7792728, 'lng': -122.4193639}",2.4
+Government,San Francisco Federal Building,"{'lat': 37.7795169, 'lng': -122.4118031}",3.6
+Government,GSA General Services Administration,"{'lat': 37.7789492, 'lng': -122.4122106}",0
+Government,Commission On Judicial Performance,"{'lat': 37.7811142, 'lng': -122.4180618}",1.3
+Government,Department of Homeland Security,"{'lat': 37.7821105, 'lng': -122.4183587}",2.3
+Government,U.S. General Services Administration - Pacific Rim Region,"{'lat': 37.7802611, 'lng': -122.4145017}",3
+Government,San Francisco County Surveyor,"{'lat': 37.7742557, 'lng': -122.4187757}",0
+Government,County Adult Assistance Program General Assistance Office,"{'lat': 37.7768568, 'lng': -122.4136958}",3.7
+Government,City Administrators Office,"{'lat': 37.7791298, 'lng': -122.4190052}",4.5
+Government,San Francisco Board Of Supervisors,"{'lat': 37.7792629, 'lng': -122.4192703}",1.4
+Government,Social Security Administration,"{'lat': 37.7789936, 'lng': -122.4121455}",2.9
+Government,San Francisco City & County of,"{'lat': 37.7717589, 'lng': -122.4196182}",0
+Government,San Francisco City;Purchasing Department-Reproduction,"{'lat': 37.776292, 'lng': -122.416245}",0
+Government,S F Public Conservator Office,"{'lat': 37.7717589, 'lng': -122.4196182}",3
+Government,San Francisco Recorder,"{'lat': 37.7792543, 'lng': -122.4134141}",1
+Government,California State Legislature,"{'lat': 37.7811142, 'lng': -122.4180618}",2.3
+Government,Criminal Justice Council,"{'lat': 37.7790267, 'lng': -122.419171}",5
+Government,Assembly Member Phil Ting,"{'lat': 37.7810141, 'lng': -122.4180471}",1.9
+Hospital,CPMC Van Ness Campus,"{'lat': 37.785997, 'lng': -122.422302}",3.6
+Hospital,UCSF San Francisco CA,"{'lat': 37.7749295, 'lng': -122.4194155}",0
+Hospital,Cpmc,"{'lat': 37.7647702, 'lng': -122.4328693}",0
+Hospital,白卡,"{'lat': 37.7713194, 'lng': -122.4121828}",2.5
+Hotel,San Francisco Proper,"{'lat': 37.7808751, 'lng': -122.4126641}",4.3
+Hotel,HOTEL EPIK,"{'lat': 37.7833393, 'lng': -122.4191193}",3.7
+Hotel,1906 Mission,"{'lat': 37.7664882, 'lng': -122.4200128}",4.1
+Hotel,Phoenix Hotel,"{'lat': 37.7829373, 'lng': -122.4178187}",4.4
+Hotel,Hampton Inn San Francisco Downtown/Convention Center,"{'lat': 37.7821501, 'lng': -122.4078359}",3.8
+Hotel,The Grove Inn,"{'lat': 37.7769398, 'lng': -122.43123}",4.5
+Hotel,Parc 55 San Francisco - a Hilton Hotel,"{'lat': 37.7848243, 'lng': -122.4090609}",4.1
+Hotel,Inn on Grove,"{'lat': 37.7773593, 'lng': -122.4241445}",4.6
+Hotel,Signature San Francisco,"{'lat': 37.7774014, 'lng': -122.4082654}",4.1
+Hotel,Courtyard San Francisco Downtown/Van Ness Ave.,"{'lat': 37.785501, 'lng': -122.4211349}",4.2
+Hotel,Casa Loma Hotel,"{'lat': 37.7751097, 'lng': -122.4309505}",3.7
+Hotel,Twin Peaks Hotel - San Francisco,"{'lat': 37.7667861, 'lng': -122.4302076}",3.5
+Hotel,Embassy Hotel,"{'lat': 37.7823871, 'lng': -122.4189189}",3.1
+Hotel,Civic Center Motor Inn,"{'lat': 37.7726514, 'lng': -122.410788}",3.5
+Hotel,Beck's Motor Lodge,"{'lat': 37.7654884, 'lng': -122.4318558}",4.4
+Hotel,Bay Hotel,"{'lat': 37.7825175, 'lng': -122.4120747}",3
+Hotel,SoMa House,"{'lat': 37.778915, 'lng': -122.409836}",3.3
+Hotel,Hayes Valley Inn,"{'lat': 37.7771258, 'lng': -122.4231924}",3.8
+Hotel,"FOUND Hotel, San Francisco","{'lat': 37.78485999999999, 'lng': -122.4093059}",3.9
+Hotel,Union Hotel,"{'lat': 37.7645084, 'lng': -122.4197985}",3.4
+KFC,KFC,"{'lat': 37.7829915, 'lng': -122.418993}",3
+KFC,Taco Bell / KFC,"{'lat': 37.7830063, 'lng': -122.4189844}",3.5
+Kindergarten,Montessori House of Children,"{'lat': 37.7852937, 'lng': -122.4237302}",5
+Kindergarten,Tenderloin Community Elementary School,"{'lat': 37.7819554, 'lng': -122.4199247}",4
+Kindergarten,Mission Montessori,"{'lat': 37.7768199, 'lng': -122.4187205}",5
+Kindergarten,John Muir Elementary School,"{'lat': 37.7739963, 'lng': -122.4289812}",4.6
+Kindergarten,Montessori School of San Francisco,"{'lat': 37.7814492, 'lng': -122.4332162}",4.8
+Kindergarten,San Francisco Friends School,"{'lat': 37.7690673, 'lng': -122.4227169}",4.5
+Kindergarten,Phoebe Hearst Preschool,"{'lat': 37.7827475, 'lng': -122.4279366}",5
+Kindergarten,Presidio Knolls School,"{'lat': 37.7731613, 'lng': -122.4135169}",4.4
+Kindergarten,C5 Children's School,"{'lat': 37.781089, 'lng': -122.418101}",4.4
+Kindergarten,John Muir Prekindergarten,"{'lat': 37.7740647, 'lng': -122.4289884}",0
+Kindergarten,Bessie Carmichael Pre K,"{'lat': 37.7765527, 'lng': -122.4066754}",4.5
+Kindergarten,Little Munchkins,"{'lat': 37.7722608, 'lng': -122.4285649}",5
+Kindergarten,Mission Dolores Academy,"{'lat': 37.7641912, 'lng': -122.4283947}",4.1
+Kindergarten,Bessie Carmichael Elementary School,"{'lat': 37.7761264, 'lng': -122.4065104}",4.3
+Kindergarten,San Francisco Schoolhouse,"{'lat': 37.7749187, 'lng': -122.4301833}",0
+Kindergarten,L'Academy Language Immersion Preschool & Infant CPMC,"{'lat': 37.7858913, 'lng': -122.4206409}",4.6
+Kindergarten,SF City Academy,"{'lat': 37.7834948, 'lng': -122.4123974}",4.2
+Kindergarten,Children's Day School,"{'lat': 37.7641934, 'lng': -122.4252815}",0
+Kindergarten,Raphael Weill Child Development Center,"{'lat': 37.78304610000001, 'lng': -122.4295204}",2
+Kindergarten,L'Academy Mandarin Immersion Preschool San Francisco SOMA,"{'lat': 37.774302, 'lng': -122.4094776}",5
+Laundry,Rinse - Laundry & Dry Cleaning Delivery,"{'lat': 37.7700699, 'lng': -122.407618}",4.3
+Laundry,The Hayes Laundry,"{'lat': 37.7761393, 'lng': -122.4298338}",4.2
+Laundry,Ocean Blue Laundry & Sandwich Shop,"{'lat': 37.7719913, 'lng': -122.4227421}",4.2
+Laundry,First Coin Laundry,"{'lat': 37.7837286, 'lng': -122.4134912}",4.1
+Laundry,Jack's Laundry,"{'lat': 37.765991, 'lng': -122.4334447}",4.8
+Laundry,WASH on 14th Street,"{'lat': 37.7676017, 'lng': -122.4297359}",3.5
+Laundry,John's Wash & Dry,"{'lat': 37.768299, 'lng': -122.4182896}",3.3
+Laundry,Eighth Street Laundry,"{'lat': 37.77663, 'lng': -122.4123394}",3.2
+Laundry,Haight To Wash,"{'lat': 37.7721326, 'lng': -122.4310984}",3.7
+Laundry,WashClub Bay Area,"{'lat': 37.7827618, 'lng': -122.4322245}",4.3
+Laundry,Angkor Laundromat,"{'lat': 37.7836448, 'lng': -122.4133504}",4.5
+Laundry,Carlin's Laundromat,"{'lat': 37.76823090000001, 'lng': -122.4223953}",4.1
+Laundry,Rainbow Coin Laundromat,"{'lat': 37.7838206, 'lng': -122.4158448}",3.9
+Laundry,14th & So Van Ness Laundry,"{'lat': 37.7682979, 'lng': -122.4182954}",1
+Laundry,Pete's Launderette & Cleaners,"{'lat': 37.7777272, 'lng': -122.4247127}",4.5
+Laundry,Neighbors Laundromat,"{'lat': 37.7749417, 'lng': -122.4274774}",4.5
+Laundry,Dair's Speed Wash,"{'lat': 37.7843457, 'lng': -122.4162292}",3.9
+Laundry,Wishy Washy Laundromat,"{'lat': 37.7729174, 'lng': -122.4324645}",3.5
+Laundry,The TL Laundromat & Wash and Fold (NO CAFE),"{'lat': 37.7856589, 'lng': -122.4133677}",4.3
+Laundry,Fillmore Laundromat,"{'lat': 37.7826537, 'lng': -122.4321887}",3.7
+Library,Main Library - San Francisco Public Library,"{'lat': 37.7790819, 'lng': -122.4157961}",4.5
+Library,Prelinger Library,"{'lat': 37.7748333, 'lng': -122.4096716}",5
+Library,Laurance S. Rockefeller Library,"{'lat': 37.7747156, 'lng': -122.4164386}",2
+Library,San Francisco Law Library,"{'lat': 37.7795419, 'lng': -122.4134156}",4.8
+Library,UC Law San Francisco Law Library,"{'lat': 37.7811659, 'lng': -122.4158445}",5
+Library,SFPL Catalog & Tech Services,"{'lat': 37.775149, 'lng': -122.4135944}",0
+Library,Eureka Valley/Harvey Milk Memorial Branch Library,"{'lat': 37.7641804, 'lng': -122.4319951}",4.5
+Library,SFCM Music Library,"{'lat': 37.7754242, 'lng': -122.420291}",0
+Library,Friends of the San Francisco Public Library,"{'lat': 37.7788976, 'lng': -122.4156692}",4.7
+Library,Little Free Library,"{'lat': 37.7704785, 'lng': -122.4327815}",0
+Logistics,Inari Logistics,"{'lat': 37.7704224, 'lng': -122.4240297}",0
+Logistics,Bay Haul of Fame,"{'lat': 37.7815203, 'lng': -122.4086985}",4.9
+Logistics,OnTrac Drop Box,"{'lat': 37.7823002, 'lng': -122.4209504}",1
+Logistics,AJ Shipping LLC,"{'lat': 37.7771959, 'lng': -122.4173361}",0
+Logistics,OnTrac Drop Box,"{'lat': 37.7700668, 'lng': -122.4252464}",0
+Logistics,Fetch,"{'lat': 37.782207, 'lng': -122.4328126}",3.5
+McDonald's,McDonald's,"{'lat': 37.7798713, 'lng': -122.4317172}",3.4
+McDonald's,McDonald's,"{'lat': 37.76541510000001, 'lng': -122.4079489}",3.6
+Middle-School,Everett Middle School,"{'lat': 37.763721, 'lng': -122.4288604}",2.9
+Middle-School,Millennium School,"{'lat': 37.7817507, 'lng': -122.4237461}",5
+Middle-School,Mission Dolores Academy,"{'lat': 37.7641912, 'lng': -122.4283947}",4.1
+Middle-School,De Marillac Academy,"{'lat': 37.7818229, 'lng': -122.4133602}",4.1
+Middle-School,San Francisco Friends School,"{'lat': 37.7690673, 'lng': -122.4227169}",4.5
+Middle-School,Presidio Knolls School,"{'lat': 37.7731613, 'lng': -122.4135169}",4.4
+Middle-School,Bessie Carmichael Elementary School,"{'lat': 37.7761264, 'lng': -122.4065104}",4.3
+Middle-School,San Francisco Schoolhouse,"{'lat': 37.7749187, 'lng': -122.4301833}",0
+Movie-Theater,Landmark's Opera Plaza Cinema,"{'lat': 37.7811784, 'lng': -122.4214426}",4.2
+Movie-Theater,AMC Kabuki 8,"{'lat': 37.7849354, 'lng': -122.4325232}",4.1
+Movie-Theater,Roxie Theater,"{'lat': 37.76462, 'lng': -122.422425}",4.6
+Movie-Theater,Proxy Walk-In Theater,"{'lat': 37.7764861, 'lng': -122.4241392}",4.7
+Movie-Theater,Market Street Theatre and Loft Historic District,"{'lat': 37.7814135, 'lng': -122.411987}",4.1
+Movie-Theater,San Francisco Cinematheque,"{'lat': 37.7829241, 'lng': -122.4108362}",4
+Movie-Theater,NEW PEOPLE,"{'lat': 37.785616, 'lng': -122.4306014}",4.6
+Movie-Theater,Victoria Theatre,"{'lat': 37.7648472, 'lng': -122.4189444}",4.3
+Museum,Tenderloin Museum,"{'lat': 37.7838761, 'lng': -122.4141613}",4.5
+Museum,International Art Museum of America,"{'lat': 37.7816826, 'lng': -122.4107142}",4.4
+Museum,Asian Art Museum,"{'lat': 37.7802772, 'lng': -122.4161605}",4.6
+Museum,Pioneer Monument,"{'lat': 37.7797063, 'lng': -122.4159651}",3.7
+Museum,Old Mission Dolores Museum,"{'lat': 37.7642002, 'lng': -122.4266329}",4.7
+Museum,African American Art & Culture Complex,"{'lat': 37.7781195, 'lng': -122.4292341}",4.7
+Museum,GLBT Historical Society Archives,"{'lat': 37.782316, 'lng': -122.4095922}",4
+Newsstand,"Bay Area Reporter, America's longest continuously-published and highest circulation LGBTQ newspaper","{'lat': 37.772735, 'lng': -122.4211097}",5
+Newsstand,San Francisco Chronicle,"{'lat': 37.7822008, 'lng': -122.4065207}",3.8
+Newsstand,Books Inc.,"{'lat': 37.7816222, 'lng': -122.4209713}",4.6
+Police,SFPD Tenderloin Station,"{'lat': 37.7838031, 'lng': -122.412926}",0
+Police,SFPD Northern District Police Station,"{'lat': 37.78019, 'lng': -122.4324452}",0
+Police,San Francisco Police Department; Licenses,"{'lat': 37.7798538, 'lng': -122.4190067}",0
+Police,San Francisco Sheriff-Civil,"{'lat': 37.77678700000001, 'lng': -122.418101}",0
+Police,San Francisco Sheriff's Department,"{'lat': 37.7798398, 'lng': -122.4188968}",0
+Police,SF Sheriff's Dept.,"{'lat': 37.7685627, 'lng': -122.4161998}",0
+Police,San Francisco County Sheriff,"{'lat': 37.7811335, 'lng': -122.4262036}",0
+Police,S F Sheriff Department-Civil Division,"{'lat': 37.7793056, 'lng': -122.4189099}",0
+Police,Department of Police Accountability,"{'lat': 37.7748606, 'lng': -122.4187694}",3
+Police,Department of Homeland Security,"{'lat': 37.7821105, 'lng': -122.4183587}",2.3
+Police,CCSF-Sheriffs Department,"{'lat': 37.7749865, 'lng': -122.4052681}",0
+Police,U.S. Marshals Service,"{'lat': 37.7819575, 'lng': -122.4184817}",5
+Post-Office,United States Postal Service,"{'lat': 37.7666358, 'lng': -122.4110914}",2.2
+Post-Office,United States Postal Service,"{'lat': 37.7774943, 'lng': -122.4171334}",3.4
+Post-Office,United States Postal Service,"{'lat': 37.7819829, 'lng': -122.4184053}",3.2
+Post-Office,USPS Mailbox,"{'lat': 37.7647092, 'lng': -122.4288876}",5
+Post-Office,United States Postal Service,"{'lat': 37.7840085, 'lng': -122.4335762}",2.2
+Post-Office,San Francisco General Delivery,"{'lat': 37.7847079, 'lng': -122.4125915}",2.6
+Post-Office,USPS Mailbox,"{'lat': 37.778125, 'lng': -122.4196384}",4
+Post-Office,USPS Mailbox,"{'lat': 37.7751972, 'lng': -122.4227838}",3.5
+Post-Office,USPS Mailbox,"{'lat': 37.7673529, 'lng': -122.428809}",5
+Post-Office,USPS Mailbox,"{'lat': 37.77863079999999, 'lng': -122.4235378}",5
+Post-Office,Exoticerotic,"{'lat': 37.7666768, 'lng': -122.4073931}",0
+Post-Office,Fillmore Postal,"{'lat': 37.7788504, 'lng': -122.4319745}",4.9
+Post-Office,USPS Mailbox,"{'lat': 37.7806188, 'lng': -122.4179389}",5
+Post-Office,USPS Mailbox,"{'lat': 37.7782343, 'lng': -122.4187205}",0
+Post-Office,USPS Mailbox,"{'lat': 37.7792963, 'lng': -122.42505}",0
+Post-Office,USPS Mailbox,"{'lat': 37.780759, 'lng': -122.4234935}",0
+Post-Office,USPS Mailbox,"{'lat': 37.7779025, 'lng': -122.4217438}",0
+Post-Office,USPS Mailbox,"{'lat': 37.7637011, 'lng': -122.4334944}",0

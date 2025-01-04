@@ -1,5 +1,6 @@
 import requests
 import json
+import csv
 
 # 关键词列表，包含各种设施类型
 combined_list_GD = [
@@ -59,13 +60,26 @@ def get_nearby_poi_for_keywords(api_key):
                 print(f"Error fetching data for {keyword}: {response.status_code}")  # 打印错误信息
                 break
 
-    # 如果有结果，保存到文件中
+    # 如果有结果，保存到CSV文件中
     if all_results:
-        with open('SanFrancisco_poi_data.json', 'w') as f:
-            json.dump(all_results, f, indent=4)  # 将结果写入JSON文件
-        print("Data saved to SanFrancisco_poi_data.json")  # 打印保存成功信息
+        csv_file = 'SanFrancisco_poi_data.csv'
+        csv_columns = ['keyword', 'name', 'location', 'rating']
+
+        try:
+            with open(csv_file, 'w', newline='') as csvfile:
+                writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+                writer.writeheader()
+                for data in all_results:
+                    writer.writerow(data)
+            print("Data saved to SanFrancisco_poi_data.csv")
+        except IOError:
+            print("I/O error")
+
+        # 打印保存成功信息
+        print("Data saved to SanFrancisco_poi_data.csv")  # 打印保存成功信息
     else:
         print("No data to save")  # 如果没有结果，打印提示信息
+        
 
 # 获取实际的Google API密钥
 api_key = "AIzaSyBTfH6wqUcn8PzR4KmlXFEL5fJH5OAKk5o"  # 替换为实际API密钥
