@@ -1,0 +1,2126 @@
+[
+    {
+        "keyword": "ATM",
+        "name": "ATM",
+        "location": {
+            "lat": 37.7808107,
+            "lng": -122.4212454
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "ATM",
+        "name": "Chase ATM",
+        "location": {
+            "lat": 37.7803021,
+            "lng": -122.4199844
+        },
+        "rating": 1.5
+    },
+    {
+        "keyword": "ATM",
+        "name": "ATM",
+        "location": {
+            "lat": 37.7804864,
+            "lng": -122.408378
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "ATM",
+        "name": "SF GENERAL SERVICES- Golden 1 Credit Union ATM",
+        "location": {
+            "lat": 37.7812385,
+            "lng": -122.4178945
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "ATM",
+        "name": "Bank of America ATM",
+        "location": {
+            "lat": 37.781512,
+            "lng": -122.4208309
+        },
+        "rating": 2.8
+    },
+    {
+        "keyword": "ATM",
+        "name": "PUC SF- Golden 1 Credit Union ATM",
+        "location": {
+            "lat": 37.7804288,
+            "lng": -122.4207678
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "ATM",
+        "name": "Wells Fargo ATM",
+        "location": {
+            "lat": 37.7775531,
+            "lng": -122.423293
+        },
+        "rating": 2.4
+    },
+    {
+        "keyword": "ATM",
+        "name": "Bank of America ATM",
+        "location": {
+            "lat": 37.7713599,
+            "lng": -122.4244864
+        },
+        "rating": 1.4
+    },
+    {
+        "keyword": "ATM",
+        "name": "ATM",
+        "location": {
+            "lat": 37.7642883,
+            "lng": -122.4071776
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "ATM",
+        "name": "ATM",
+        "location": {
+            "lat": 37.7805653,
+            "lng": -122.4189533
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "ATM",
+        "name": "Access ATM, Inc.",
+        "location": {
+            "lat": 37.7721662,
+            "lng": -122.4223311
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "ATM",
+        "name": "Wells Fargo ATM",
+        "location": {
+            "lat": 37.7669072,
+            "lng": -122.4094861
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "ATM",
+        "name": "Bank of America ATM",
+        "location": {
+            "lat": 37.7853118,
+            "lng": -122.4327566
+        },
+        "rating": 2.7
+    },
+    {
+        "keyword": "ATM",
+        "name": "Wells Fargo ATM",
+        "location": {
+            "lat": 37.7688369,
+            "lng": -122.4279232
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "ATM",
+        "name": "BMO - ATM",
+        "location": {
+            "lat": 37.7772414,
+            "lng": -122.4162653
+        },
+        "rating": 1
+    },
+    {
+        "keyword": "ATM",
+        "name": "U.S. Bank ATM",
+        "location": {
+            "lat": 37.7649423,
+            "lng": -122.419418
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "ATM",
+        "name": "BMO - ATM",
+        "location": {
+            "lat": 37.7666929,
+            "lng": -122.429677
+        },
+        "rating": 1
+    },
+    {
+        "keyword": "ATM",
+        "name": "Wells Fargo ATM",
+        "location": {
+            "lat": 37.7832945,
+            "lng": -122.4053491
+        },
+        "rating": 2.4
+    },
+    {
+        "keyword": "ATM",
+        "name": "Bank of America ATM",
+        "location": {
+            "lat": 37.7752741,
+            "lng": -122.4187653
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "ATM",
+        "name": "Citibank ATM",
+        "location": {
+            "lat": 37.7861214,
+            "lng": -122.4246625
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Mayfair Beauty Salon",
+        "location": {
+            "lat": 37.7839485,
+            "lng": -122.416121
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Intava Salon",
+        "location": {
+            "lat": 37.7772032,
+            "lng": -122.4235544
+        },
+        "rating": 4.9
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Golden beauty salon",
+        "location": {
+            "lat": 37.7837077,
+            "lng": -122.4157833
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Triple Twist Makeup and Hair Design",
+        "location": {
+            "lat": 37.7851611,
+            "lng": -122.4076723
+        },
+        "rating": 4.8
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Wakanda African Hair - by Mimi",
+        "location": {
+            "lat": 37.7637603,
+            "lng": -122.419706
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Wendy's Salon",
+        "location": {
+            "lat": 37.7825118,
+            "lng": -122.4150976
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Retreat Skin & Hair Studio",
+        "location": {
+            "lat": 37.7710245,
+            "lng": -122.430104
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Yahaira's Hair Designer",
+        "location": {
+            "lat": 37.7749622,
+            "lng": -122.4210437
+        },
+        "rating": 4.9
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "VERA Skin Studio | Shop",
+        "location": {
+            "lat": 37.7665727,
+            "lng": -122.4241403
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "San Francisco Institute of Esthetics and Cosmetology",
+        "location": {
+            "lat": 37.7771256,
+            "lng": -122.4071692
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Lucid Beauty",
+        "location": {
+            "lat": 37.7766917,
+            "lng": -122.4234861
+        },
+        "rating": 4.2
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "LUX SF",
+        "location": {
+            "lat": 37.7768004,
+            "lng": -122.4244655
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Hair by Maiko",
+        "location": {
+            "lat": 37.7771525,
+            "lng": -122.421797
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Opera Plaza Hair Design",
+        "location": {
+            "lat": 37.7809625,
+            "lng": -122.4219875
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Josi beauty salon",
+        "location": {
+            "lat": 37.7749295,
+            "lng": -122.4194155
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Ariana Rose Beauty",
+        "location": {
+            "lat": 37.7659508,
+            "lng": -122.4335673
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Steel + Lacquer",
+        "location": {
+            "lat": 37.775823,
+            "lng": -122.4170231
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Q Beauty",
+        "location": {
+            "lat": 37.7860573,
+            "lng": -122.4177079
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Zindagi Salon",
+        "location": {
+            "lat": 37.7831725,
+            "lng": -122.407689
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Beauty-Salon",
+        "name": "Lavender Beauty Image",
+        "location": {
+            "lat": 37.7857918,
+            "lng": -122.4293869
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Dore Urgent Care Clinic (Psychiatric)",
+        "location": {
+            "lat": 37.77370579999999,
+            "lng": -122.4129249
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Clinic",
+        "name": "EZCare Clinic",
+        "location": {
+            "lat": 37.7710684,
+            "lng": -122.4248417
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Grace Medical Clinic",
+        "location": {
+            "lat": 37.7848727,
+            "lng": -122.4306913
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Sollis Health - San Francisco",
+        "location": {
+            "lat": 37.7851005,
+            "lng": -122.4219532
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Clinic",
+        "name": "One Medical: Hayes Valley",
+        "location": {
+            "lat": 37.773958,
+            "lng": -122.4221524
+        },
+        "rating": 3.9
+    },
+    {
+        "keyword": "Clinic",
+        "name": "St. Anthony's Medical Clinic",
+        "location": {
+            "lat": 37.7821992,
+            "lng": -122.4132138
+        },
+        "rating": 3.3
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Tom Waddell Urban Health Center",
+        "location": {
+            "lat": 37.7819284,
+            "lng": -122.4143537
+        },
+        "rating": 3.4
+    },
+    {
+        "keyword": "Clinic",
+        "name": "San Francisco Community Health Center",
+        "location": {
+            "lat": 37.7838223,
+            "lng": -122.419095
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Acu-Care Medical Clinic",
+        "location": {
+            "lat": 37.7844419,
+            "lng": -122.4142799
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Tia San Francisco",
+        "location": {
+            "lat": 37.7743205,
+            "lng": -122.4176422
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Women's Community Clinic",
+        "location": {
+            "lat": 37.769526,
+            "lng": -122.419725
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "Clinic",
+        "name": "San Francisco City Clinic",
+        "location": {
+            "lat": 37.7758906,
+            "lng": -122.4071627
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Carbon Health Urgent & Primary Care San Francisco - Civic Center",
+        "location": {
+            "lat": 37.77717639999999,
+            "lng": -122.4174749
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Carbon Health Urgent Care San Francisco - Castro",
+        "location": {
+            "lat": 37.7699007,
+            "lng": -122.4263947
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Central City Older Adults Clinic",
+        "location": {
+            "lat": 37.7762153,
+            "lng": -122.4192597
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Clinic",
+        "name": "Equity Health (FKA: South of Market Health Center)",
+        "location": {
+            "lat": 37.777544,
+            "lng": -122.4086164
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Clinic",
+        "name": "DR. BROWN ALLERGY MEDICAL CLINIC",
+        "location": {
+            "lat": 37.7680737,
+            "lng": -122.4080569
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Clinic",
+        "name": "San Francisco (Van Ness) Outreach Clinic",
+        "location": {
+            "lat": 37.7859895,
+            "lng": -122.4209769
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Clinic",
+        "name": "San Francisco Community Clinic Consortium",
+        "location": {
+            "lat": 37.7640103,
+            "lng": -122.4188532
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "CVS",
+        "name": "CVS",
+        "location": {
+            "lat": 37.77206,
+            "lng": -122.4300844
+        },
+        "rating": 2.7
+    },
+    {
+        "keyword": "CVS",
+        "name": "CVS",
+        "location": {
+            "lat": 37.7821074,
+            "lng": -122.4210559
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "CVS",
+        "name": "CVS Photo",
+        "location": {
+            "lat": 37.7720632,
+            "lng": -122.4300586
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "CVS",
+        "name": "CVS Pharmacy",
+        "location": {
+            "lat": 37.782061,
+            "lng": -122.4210563
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "CVS",
+        "name": "CVS Pharmacy",
+        "location": {
+            "lat": 37.7720559,
+            "lng": -122.4301156
+        },
+        "rating": 3.1
+    },
+    {
+        "keyword": "CVS",
+        "name": "CVS Photo",
+        "location": {
+            "lat": 37.782061,
+            "lng": -122.4210563
+        },
+        "rating": 2.5
+    },
+    {
+        "keyword": "CVS",
+        "name": "Walgreens",
+        "location": {
+            "lat": 37.78604989999999,
+            "lng": -122.4081141
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "CVS",
+        "name": "Walgreens",
+        "location": {
+            "lat": 37.7851371,
+            "lng": -122.4062683
+        },
+        "rating": 3.1
+    },
+    {
+        "keyword": "CVS",
+        "name": "Walgreens",
+        "location": {
+            "lat": 37.77713869999999,
+            "lng": -122.4164325
+        },
+        "rating": 2.9
+    },
+    {
+        "keyword": "Fire-Department",
+        "name": "San Francisco Fire Department Station 5",
+        "location": {
+            "lat": 37.7805699,
+            "lng": -122.4307212
+        },
+        "rating": 3.2
+    },
+    {
+        "keyword": "Fire-Department",
+        "name": "San Francisco Fire Station 36",
+        "location": {
+            "lat": 37.7751234,
+            "lng": -122.4211758
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Fire-Department",
+        "name": "San Francisco Fire Station 6",
+        "location": {
+            "lat": 37.7670457,
+            "lng": -122.4310152
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "Fire-Department",
+        "name": "Commercial Fire Dispatch Headquarters",
+        "location": {
+            "lat": 37.7748449,
+            "lng": -122.4231513
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Fire-Department",
+        "name": "San Francisco Firefighters Cancer Prevention Foundation",
+        "location": {
+            "lat": 37.778381,
+            "lng": -122.4117507
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "ARCO",
+        "location": {
+            "lat": 37.768473,
+            "lng": -122.4203864
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Shell",
+        "location": {
+            "lat": 37.773413,
+            "lng": -122.408461
+        },
+        "rating": 2.8
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "76",
+        "location": {
+            "lat": 37.7642226,
+            "lng": -122.407051
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Gas & Shop Gasoline",
+        "location": {
+            "lat": 37.763792,
+            "lng": -122.4170812
+        },
+        "rating": 3.9
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Shell",
+        "location": {
+            "lat": 37.7819157,
+            "lng": -122.4227248
+        },
+        "rating": 2.9
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Shell",
+        "location": {
+            "lat": 37.7647648,
+            "lng": -122.407737
+        },
+        "rating": 3.3
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Shell",
+        "location": {
+            "lat": 37.7644942,
+            "lng": -122.4243303
+        },
+        "rating": 2.3
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Chevron",
+        "location": {
+            "lat": 37.7647966,
+            "lng": -122.4170427
+        },
+        "rating": 3.9
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Chevron",
+        "location": {
+            "lat": 37.7720624,
+            "lng": -122.4185775
+        },
+        "rating": 2.4
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Git 'n Split",
+        "location": {
+            "lat": 37.7638624,
+            "lng": -122.4169728
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Mission Self Services",
+        "location": {
+            "lat": 37.7640215,
+            "lng": -122.4172109
+        },
+        "rating": 2.4
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "Self Serve Petroleum",
+        "location": {
+            "lat": 37.7649712,
+            "lng": -122.4172831
+        },
+        "rating": 3.4
+    },
+    {
+        "keyword": "Gas-Station",
+        "name": "ATM (Tower Car Wash)",
+        "location": {
+            "lat": 37.77206169999999,
+            "lng": -122.4189016
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Government",
+        "name": "US General Services Administration",
+        "location": {
+            "lat": 37.7819451,
+            "lng": -122.4181348
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Government",
+        "name": "California Personnel",
+        "location": {
+            "lat": 37.7811142,
+            "lng": -122.4180618
+        },
+        "rating": 2
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco Mayor's Office",
+        "location": {
+            "lat": 37.7792728,
+            "lng": -122.4193639
+        },
+        "rating": 2.4
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco Federal Building",
+        "location": {
+            "lat": 37.7795169,
+            "lng": -122.4118031
+        },
+        "rating": 3.6
+    },
+    {
+        "keyword": "Government",
+        "name": "GSA General Services Administration",
+        "location": {
+            "lat": 37.7789492,
+            "lng": -122.4122106
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Government",
+        "name": "Commission On Judicial Performance",
+        "location": {
+            "lat": 37.7811142,
+            "lng": -122.4180618
+        },
+        "rating": 1.3
+    },
+    {
+        "keyword": "Government",
+        "name": "Department of Homeland Security",
+        "location": {
+            "lat": 37.7821105,
+            "lng": -122.4183587
+        },
+        "rating": 2.3
+    },
+    {
+        "keyword": "Government",
+        "name": "U.S. General Services Administration - Pacific Rim Region",
+        "location": {
+            "lat": 37.7802611,
+            "lng": -122.4145017
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco County Surveyor",
+        "location": {
+            "lat": 37.7742557,
+            "lng": -122.4187757
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Government",
+        "name": "County Adult Assistance Program General Assistance Office",
+        "location": {
+            "lat": 37.7768568,
+            "lng": -122.4136958
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Government",
+        "name": "City Administrators Office",
+        "location": {
+            "lat": 37.7791298,
+            "lng": -122.4190052
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco Board Of Supervisors",
+        "location": {
+            "lat": 37.7792629,
+            "lng": -122.4192703
+        },
+        "rating": 1.4
+    },
+    {
+        "keyword": "Government",
+        "name": "Social Security Administration",
+        "location": {
+            "lat": 37.7789936,
+            "lng": -122.4121455
+        },
+        "rating": 2.9
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco City & County of",
+        "location": {
+            "lat": 37.7717589,
+            "lng": -122.4196182
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco City;Purchasing Department-Reproduction",
+        "location": {
+            "lat": 37.776292,
+            "lng": -122.416245
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Government",
+        "name": "S F Public Conservator Office",
+        "location": {
+            "lat": 37.7717589,
+            "lng": -122.4196182
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Government",
+        "name": "San Francisco Recorder",
+        "location": {
+            "lat": 37.7792543,
+            "lng": -122.4134141
+        },
+        "rating": 1
+    },
+    {
+        "keyword": "Government",
+        "name": "California State Legislature",
+        "location": {
+            "lat": 37.7811142,
+            "lng": -122.4180618
+        },
+        "rating": 2.3
+    },
+    {
+        "keyword": "Government",
+        "name": "Criminal Justice Council",
+        "location": {
+            "lat": 37.7790267,
+            "lng": -122.419171
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Government",
+        "name": "Assembly Member Phil Ting",
+        "location": {
+            "lat": 37.7810141,
+            "lng": -122.4180471
+        },
+        "rating": 1.9
+    },
+    {
+        "keyword": "Hospital",
+        "name": "CPMC Van Ness Campus",
+        "location": {
+            "lat": 37.785997,
+            "lng": -122.422302
+        },
+        "rating": 3.6
+    },
+    {
+        "keyword": "Hospital",
+        "name": "UCSF San Francisco CA",
+        "location": {
+            "lat": 37.7749295,
+            "lng": -122.4194155
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Hospital",
+        "name": "Cpmc",
+        "location": {
+            "lat": 37.7647702,
+            "lng": -122.4328693
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Hospital",
+        "name": "\u767d\u5361",
+        "location": {
+            "lat": 37.7713194,
+            "lng": -122.4121828
+        },
+        "rating": 2.5
+    },
+    {
+        "keyword": "Hotel",
+        "name": "San Francisco Proper",
+        "location": {
+            "lat": 37.7808751,
+            "lng": -122.4126641
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Hotel",
+        "name": "HOTEL EPIK",
+        "location": {
+            "lat": 37.7833393,
+            "lng": -122.4191193
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Hotel",
+        "name": "1906 Mission",
+        "location": {
+            "lat": 37.7664882,
+            "lng": -122.4200128
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Hotel",
+        "name": "The Grove Inn",
+        "location": {
+            "lat": 37.7769398,
+            "lng": -122.43123
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Phoenix Hotel",
+        "location": {
+            "lat": 37.7829373,
+            "lng": -122.4178187
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Hampton Inn San Francisco Downtown/Convention Center",
+        "location": {
+            "lat": 37.7821501,
+            "lng": -122.4078359
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Inn on Grove",
+        "location": {
+            "lat": 37.7773593,
+            "lng": -122.4241445
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Signature San Francisco",
+        "location": {
+            "lat": 37.7774014,
+            "lng": -122.4082654
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Parc 55 San Francisco - a Hilton Hotel",
+        "location": {
+            "lat": 37.7848243,
+            "lng": -122.4090609
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Courtyard San Francisco Downtown/Van Ness Ave.",
+        "location": {
+            "lat": 37.785501,
+            "lng": -122.4211349
+        },
+        "rating": 4.2
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Casa Loma Hotel",
+        "location": {
+            "lat": 37.7751097,
+            "lng": -122.4309505
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Twin Peaks Hotel - San Francisco",
+        "location": {
+            "lat": 37.7667861,
+            "lng": -122.4302076
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Embassy Hotel",
+        "location": {
+            "lat": 37.7823871,
+            "lng": -122.4189189
+        },
+        "rating": 3.1
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Civic Center Motor Inn",
+        "location": {
+            "lat": 37.7726514,
+            "lng": -122.410788
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Beck's Motor Lodge",
+        "location": {
+            "lat": 37.7654884,
+            "lng": -122.4318558
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Bay Hotel",
+        "location": {
+            "lat": 37.7825175,
+            "lng": -122.4120747
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Hotel",
+        "name": "SoMa House",
+        "location": {
+            "lat": 37.778915,
+            "lng": -122.409836
+        },
+        "rating": 3.3
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Hayes Valley Inn",
+        "location": {
+            "lat": 37.7771258,
+            "lng": -122.4231924
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "Hotel",
+        "name": "FOUND Hotel, San Francisco",
+        "location": {
+            "lat": 37.78485999999999,
+            "lng": -122.4093059
+        },
+        "rating": 3.9
+    },
+    {
+        "keyword": "Hotel",
+        "name": "Union Hotel",
+        "location": {
+            "lat": 37.7645084,
+            "lng": -122.4197985
+        },
+        "rating": 3.4
+    },
+    {
+        "keyword": "KFC",
+        "name": "KFC",
+        "location": {
+            "lat": 37.7829915,
+            "lng": -122.418993
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "KFC",
+        "name": "Taco Bell / KFC",
+        "location": {
+            "lat": 37.7830063,
+            "lng": -122.4189844
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Tenderloin Community Elementary School",
+        "location": {
+            "lat": 37.7819554,
+            "lng": -122.4199247
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Phoebe Hearst Preschool",
+        "location": {
+            "lat": 37.7827475,
+            "lng": -122.4279366
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Mission Montessori",
+        "location": {
+            "lat": 37.7768199,
+            "lng": -122.4187205
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Montessori School of San Francisco",
+        "location": {
+            "lat": 37.7814492,
+            "lng": -122.4332162
+        },
+        "rating": 4.8
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Montessori House of Children",
+        "location": {
+            "lat": 37.7852937,
+            "lng": -122.4237302
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "John Muir Elementary School",
+        "location": {
+            "lat": 37.7739963,
+            "lng": -122.4289812
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Presidio Knolls School",
+        "location": {
+            "lat": 37.7731613,
+            "lng": -122.4135169
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "C5 Children's School",
+        "location": {
+            "lat": 37.781089,
+            "lng": -122.418101
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Bessie Carmichael Pre K",
+        "location": {
+            "lat": 37.7765527,
+            "lng": -122.4066754
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Bessie Carmichael Elementary School",
+        "location": {
+            "lat": 37.7761264,
+            "lng": -122.4065104
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Little Munchkins",
+        "location": {
+            "lat": 37.7722608,
+            "lng": -122.4285649
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "San Francisco Friends School",
+        "location": {
+            "lat": 37.7690673,
+            "lng": -122.4227169
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Kindergarten",
+        "name": "Little Children's Development Center",
+        "location": {
+            "lat": 37.7822539,
+            "lng": -122.4309624
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Rinse - Laundry & Dry Cleaning Delivery",
+        "location": {
+            "lat": 37.7700699,
+            "lng": -122.407618
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Eighth Street Laundry",
+        "location": {
+            "lat": 37.77663,
+            "lng": -122.4123394
+        },
+        "rating": 3.2
+    },
+    {
+        "keyword": "Laundry",
+        "name": "WashClub Bay Area",
+        "location": {
+            "lat": 37.7827618,
+            "lng": -122.4322245
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Haight To Wash",
+        "location": {
+            "lat": 37.7721326,
+            "lng": -122.4310984
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Laundry",
+        "name": "John's Wash & Dry",
+        "location": {
+            "lat": 37.768299,
+            "lng": -122.4182896
+        },
+        "rating": 3.3
+    },
+    {
+        "keyword": "Laundry",
+        "name": "WASH on 14th Street",
+        "location": {
+            "lat": 37.7676017,
+            "lng": -122.4297359
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Azul Eco Laundromat",
+        "location": {
+            "lat": 37.7784978,
+            "lng": -122.4245977
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Laundry",
+        "name": "First Coin Laundry",
+        "location": {
+            "lat": 37.7837286,
+            "lng": -122.4134912
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Laundry",
+        "name": "The Hayes Laundry",
+        "location": {
+            "lat": 37.7761393,
+            "lng": -122.4298338
+        },
+        "rating": 4.2
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Wishy Washy Laundromat",
+        "location": {
+            "lat": 37.7729174,
+            "lng": -122.4324645
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Neighbors Laundromat",
+        "location": {
+            "lat": 37.7749417,
+            "lng": -122.4274774
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Angkor Laundromat",
+        "location": {
+            "lat": 37.7836448,
+            "lng": -122.4133504
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Carlin's Laundromat",
+        "location": {
+            "lat": 37.76823090000001,
+            "lng": -122.4223953
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Laundry",
+        "name": "The TL Laundromat & Wash and Fold (NO CAFE)",
+        "location": {
+            "lat": 37.7856589,
+            "lng": -122.4133677
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Pete's Launderette & Cleaners",
+        "location": {
+            "lat": 37.7777272,
+            "lng": -122.4247127
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Fillmore Laundromat",
+        "location": {
+            "lat": 37.7826537,
+            "lng": -122.4321887
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Ocean Blue Laundry & Sandwich Shop",
+        "location": {
+            "lat": 37.7719913,
+            "lng": -122.4227421
+        },
+        "rating": 4.2
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Hyde & O'Farrell Laundry",
+        "location": {
+            "lat": 37.7852002,
+            "lng": -122.4163808
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Laundry",
+        "name": "Dair's Speed Wash",
+        "location": {
+            "lat": 37.7843457,
+            "lng": -122.4162292
+        },
+        "rating": 3.9
+    },
+    {
+        "keyword": "Laundry",
+        "name": "14th & So Van Ness Laundry",
+        "location": {
+            "lat": 37.7682979,
+            "lng": -122.4182954
+        },
+        "rating": 1
+    },
+    {
+        "keyword": "Library",
+        "name": "Main Library - San Francisco Public Library",
+        "location": {
+            "lat": 37.7790819,
+            "lng": -122.4157961
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Library",
+        "name": "Prelinger Library",
+        "location": {
+            "lat": 37.7748333,
+            "lng": -122.4096716
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Library",
+        "name": "Eureka Valley/Harvey Milk Memorial Branch Library",
+        "location": {
+            "lat": 37.7641804,
+            "lng": -122.4319951
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Library",
+        "name": "Little Free Library",
+        "location": {
+            "lat": 37.7704785,
+            "lng": -122.4327815
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Library",
+        "name": "San Francisco Law Library",
+        "location": {
+            "lat": 37.7795419,
+            "lng": -122.4134156
+        },
+        "rating": 4.8
+    },
+    {
+        "keyword": "Library",
+        "name": "Laurance S. Rockefeller Library",
+        "location": {
+            "lat": 37.7747156,
+            "lng": -122.4164386
+        },
+        "rating": 2
+    },
+    {
+        "keyword": "Library",
+        "name": "UC Law San Francisco Law Library",
+        "location": {
+            "lat": 37.7811659,
+            "lng": -122.4158445
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Library",
+        "name": "Friends of the San Francisco Public Library",
+        "location": {
+            "lat": 37.7788976,
+            "lng": -122.4156692
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Library",
+        "name": "Friends of the San Francisco Public Library Bookstore",
+        "location": {
+            "lat": 37.7790283,
+            "lng": -122.4156406
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Library",
+        "name": "SFCM Music Library",
+        "location": {
+            "lat": 37.7754242,
+            "lng": -122.420291
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Logistics",
+        "name": "Inari Logistics",
+        "location": {
+            "lat": 37.7704224,
+            "lng": -122.4240297
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Logistics",
+        "name": "Fetch",
+        "location": {
+            "lat": 37.782207,
+            "lng": -122.4328126
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "McDonald's",
+        "name": "McDonald's",
+        "location": {
+            "lat": 37.7798713,
+            "lng": -122.4317172
+        },
+        "rating": 3.4
+    },
+    {
+        "keyword": "McDonald's",
+        "name": "McDonald's",
+        "location": {
+            "lat": 37.76541510000001,
+            "lng": -122.4079489
+        },
+        "rating": 3.6
+    },
+    {
+        "keyword": "Middle-School",
+        "name": "Millennium School",
+        "location": {
+            "lat": 37.7817507,
+            "lng": -122.4237461
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Middle-School",
+        "name": "Everett Middle School",
+        "location": {
+            "lat": 37.763721,
+            "lng": -122.4288604
+        },
+        "rating": 2.9
+    },
+    {
+        "keyword": "Middle-School",
+        "name": "Presidio Knolls School",
+        "location": {
+            "lat": 37.7731613,
+            "lng": -122.4135169
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Middle-School",
+        "name": "De Marillac Academy",
+        "location": {
+            "lat": 37.7818229,
+            "lng": -122.4133602
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Middle-School",
+        "name": "San Francisco Friends School",
+        "location": {
+            "lat": 37.7690673,
+            "lng": -122.4227169
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Middle-School",
+        "name": "San Francisco Schoolhouse",
+        "location": {
+            "lat": 37.7749187,
+            "lng": -122.4301833
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "AMC Kabuki 8",
+        "location": {
+            "lat": 37.7849354,
+            "lng": -122.4325232
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Landmark's Opera Plaza Cinema",
+        "location": {
+            "lat": 37.7811784,
+            "lng": -122.4214426
+        },
+        "rating": 4.2
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Roxie Theater",
+        "location": {
+            "lat": 37.76462,
+            "lng": -122.422425
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Proxy Walk-In Theater",
+        "location": {
+            "lat": 37.7764861,
+            "lng": -122.4241392
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Market Street Theatre and Loft Historic District",
+        "location": {
+            "lat": 37.7814135,
+            "lng": -122.411987
+        },
+        "rating": 4.1
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "San Francisco Cinematheque",
+        "location": {
+            "lat": 37.7829241,
+            "lng": -122.4108362
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "NEW PEOPLE",
+        "location": {
+            "lat": 37.785616,
+            "lng": -122.4306014
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Victoria Theatre",
+        "location": {
+            "lat": 37.7648472,
+            "lng": -122.4189444
+        },
+        "rating": 4.3
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Eclectic Box SF",
+        "location": {
+            "lat": 37.7657615,
+            "lng": -122.4221842
+        },
+        "rating": 4.9
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Golden Gate Theatre",
+        "location": {
+            "lat": 37.7824556,
+            "lng": -122.4109559
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Ninth Street Independent Film Center",
+        "location": {
+            "lat": 37.7757119,
+            "lng": -122.4138769
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Movie-Theater",
+        "name": "Exit Theatre",
+        "location": {
+            "lat": 37.784691,
+            "lng": -122.411287
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Museum",
+        "name": "Tenderloin Museum",
+        "location": {
+            "lat": 37.7838761,
+            "lng": -122.4141613
+        },
+        "rating": 4.5
+    },
+    {
+        "keyword": "Museum",
+        "name": "International Art Museum of America",
+        "location": {
+            "lat": 37.7816826,
+            "lng": -122.4107142
+        },
+        "rating": 4.4
+    },
+    {
+        "keyword": "Museum",
+        "name": "Asian Art Museum",
+        "location": {
+            "lat": 37.7802772,
+            "lng": -122.4161605
+        },
+        "rating": 4.6
+    },
+    {
+        "keyword": "Museum",
+        "name": "Pioneer Monument",
+        "location": {
+            "lat": 37.7797063,
+            "lng": -122.4159651
+        },
+        "rating": 3.7
+    },
+    {
+        "keyword": "Museum",
+        "name": "Old Mission Dolores Museum",
+        "location": {
+            "lat": 37.7642002,
+            "lng": -122.4266329
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Museum",
+        "name": "African American Art & Culture Complex",
+        "location": {
+            "lat": 37.7781195,
+            "lng": -122.4292341
+        },
+        "rating": 4.7
+    },
+    {
+        "keyword": "Museum",
+        "name": "GLBT Historical Society Archives",
+        "location": {
+            "lat": 37.782316,
+            "lng": -122.4095922
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "Newsstand",
+        "name": "Bay Area Reporter, America's longest continuously-published and highest circulation LGBTQ newspaper",
+        "location": {
+            "lat": 37.772735,
+            "lng": -122.4211097
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Newsstand",
+        "name": "San Francisco Chronicle",
+        "location": {
+            "lat": 37.7822008,
+            "lng": -122.4065207
+        },
+        "rating": 3.8
+    },
+    {
+        "keyword": "Police",
+        "name": "SFPD Tenderloin Station",
+        "location": {
+            "lat": 37.7838031,
+            "lng": -122.412926
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "SFPD Northern District Police Station",
+        "location": {
+            "lat": 37.78019,
+            "lng": -122.4324452
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "San Francisco Police Department; Licenses",
+        "location": {
+            "lat": 37.7798538,
+            "lng": -122.4190067
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "San Francisco Sheriff-Civil",
+        "location": {
+            "lat": 37.77678700000001,
+            "lng": -122.418101
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "San Francisco Sheriff's Department",
+        "location": {
+            "lat": 37.7798398,
+            "lng": -122.4188968
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "SF Sheriff's Dept.",
+        "location": {
+            "lat": 37.7685627,
+            "lng": -122.4161998
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "San Francisco County Sheriff",
+        "location": {
+            "lat": 37.7811335,
+            "lng": -122.4262036
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "S F Sheriff Department-Civil Division",
+        "location": {
+            "lat": 37.7793056,
+            "lng": -122.4189099
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "Department of Police Accountability",
+        "location": {
+            "lat": 37.7748606,
+            "lng": -122.4187694
+        },
+        "rating": 3
+    },
+    {
+        "keyword": "Police",
+        "name": "Department of Homeland Security",
+        "location": {
+            "lat": 37.7821105,
+            "lng": -122.4183587
+        },
+        "rating": 2.3
+    },
+    {
+        "keyword": "Police",
+        "name": "CCSF-Sheriffs Department",
+        "location": {
+            "lat": 37.7749865,
+            "lng": -122.4052681
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Police",
+        "name": "U.S. Marshals Service",
+        "location": {
+            "lat": 37.7819575,
+            "lng": -122.4184817
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "United States Postal Service",
+        "location": {
+            "lat": 37.7666358,
+            "lng": -122.4110914
+        },
+        "rating": 2.2
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "United States Postal Service",
+        "location": {
+            "lat": 37.7774943,
+            "lng": -122.4171334
+        },
+        "rating": 3.4
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "United States Postal Service",
+        "location": {
+            "lat": 37.7819829,
+            "lng": -122.4184053
+        },
+        "rating": 3.2
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7647092,
+            "lng": -122.4288876
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "United States Postal Service",
+        "location": {
+            "lat": 37.7840085,
+            "lng": -122.4335762
+        },
+        "rating": 2.2
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "San Francisco General Delivery",
+        "location": {
+            "lat": 37.7847079,
+            "lng": -122.4125915
+        },
+        "rating": 2.6
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.778125,
+            "lng": -122.4196384
+        },
+        "rating": 4
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7751972,
+            "lng": -122.4227838
+        },
+        "rating": 3.5
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7673529,
+            "lng": -122.428809
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.77863079999999,
+            "lng": -122.4235378
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "Exoticerotic",
+        "location": {
+            "lat": 37.7666768,
+            "lng": -122.4073931
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "Fillmore Postal",
+        "location": {
+            "lat": 37.7788504,
+            "lng": -122.4319745
+        },
+        "rating": 4.9
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7806188,
+            "lng": -122.4179389
+        },
+        "rating": 5
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7782343,
+            "lng": -122.4187205
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7792963,
+            "lng": -122.42505
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.780759,
+            "lng": -122.4234935
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7779025,
+            "lng": -122.4217438
+        },
+        "rating": 0
+    },
+    {
+        "keyword": "Post-Office",
+        "name": "USPS Mailbox",
+        "location": {
+            "lat": 37.7637011,
+            "lng": -122.4334944
+        },
+        "rating": 0
+    }
+]
