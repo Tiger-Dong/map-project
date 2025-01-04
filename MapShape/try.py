@@ -72,7 +72,7 @@ def get_nearby_poi_for_keywords(api_key):
                 for data in all_results:
                     writer.writerow(data)
             print("Data saved to SanFrancisco_poi_data.csv")
-        except IOError:
+        except IOError: # Input/Output error
             print("I/O error")
 
         # 打印保存成功信息
